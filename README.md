@@ -25,4 +25,7 @@ func main() {
 	pic.Show(Pic)
 }
 ```
+
+![](https://github.com/fatihayan61/PlayGolang/blob/main/Play%20with%20Golang.png?raw=true)
+
 [Playground](https://go.dev/play/p/4yOqNoZbp_7)
