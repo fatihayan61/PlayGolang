@@ -25,4 +25,4 @@ func main() {
 	pic.Show(Pic)
 }
 ```
-[](url)
+[Playground](https://go.dev/play/p/4yOqNoZbp_7)
